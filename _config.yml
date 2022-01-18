@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: CSCI 566
-name: CSCI 566
-title: Deep Learning and its Applications
-email: csci566.spring2022@gmail.com
+author:
+name: CSCI 566: Deep Learning and its Applications
+title:
+email: 
 description: >
   CSCI 566 - Deep Learning and its Applications - University of Southern California - Spring 2022
 footer_text: >
