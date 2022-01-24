@@ -47,10 +47,10 @@ title: Schedule
             {% else %}
             | video
             {% endif %}
-            {% if lecture.notes %}
+            <!-- {% if lecture.notes %}
             | <a href="{{ lecture.notes }}" target="_blank">notes</a>
             {% else %}
-            | notes
+            | notes -->
             {% endif %}
         ]
     </td>
