@@ -7,7 +7,7 @@ logo: usc-logo.png
 news: true
 ---
 
-TBD
+Recently, deep learning has advanced many AI-related problems from image retrieval, video analysis, to natural language processing, to self-driving, and to medical applications. Our goal is to guide students to get familiar with these recent cutting-edge deep learning (DL) advances in computer vision and natural language processing. Through this course, students will gain a basic understanding of DL algorithms, and how to set up and solve problems involving deep learning techniques. The course will include a couple of practical assignments and a final course project. For the final course project, students will be encouraged to pick their own topics, but can also select from a provided list of projects.
 
 ***
 
