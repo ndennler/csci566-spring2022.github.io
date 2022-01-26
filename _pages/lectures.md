@@ -51,7 +51,7 @@ title: Schedule
             | <a href="{{ lecture.notes }}" target="_blank">notes</a>
             {% else %}
             | notes -->
-            {% endif %}
+            <!-- {% endif %} -->
         ]
     </td>
     <td>
