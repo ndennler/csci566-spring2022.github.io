@@ -47,9 +47,9 @@ title: Schedule
         ]
     </td>
     <td>
-        {% if lecture.readings %}
+        {% if lecture.homework %}
         <ul>
-        {% for reading in lecture.readings %}
+        {% for reading in lecture.homework %}
             <li>{{ reading }}</li>
         {% endfor %}
         </ul>
