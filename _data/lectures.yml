@@ -19,6 +19,14 @@
   video: "https://drive.google.com/file/d/19POVCwRt_l1-HytTQ21iGb399mSg307V/view?usp=sharing"
   logistics:
 
+- date: 1/31
+  lecturer: Xiang
+  title: >
+    <strong>Intro to Neural Networks and CNNs</strong>
+  slides: "https://drive.google.com/file/d/1gk0gXYkpg7vk_xl1k8AkYgqBBaoeWCuR/view?usp=sharing"
+  video: "https://drive.google.com/file/d/1TdPyfL-KsfFlfh7Iy45OhJMVRJUMkQx_/view?usp=sharing"
+  logistics:
+
 - title: "Module 2: Deep Learning Applications"
 
 - title: "Module 3: Advanced Topics in Deep Learning"
