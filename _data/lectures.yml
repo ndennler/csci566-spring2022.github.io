@@ -6,6 +6,8 @@
     <strong>Course Intro / Entrance Exam</strong>
   slides: "https://drive.google.com/file/d/1O17Ekx65TFMS3XEjcbAXnW7hb6seZO5p/view?usp=sharing"
   video: "https://drive.google.com/file/d/1NfZUxrP0N0ep_ojVqgI2ofGtw0FJWMgg/view?usp=sharing"
+  homework:
+    - DL 1.1-2, 12.1-5
   logistics:
 
 - date: 1/17
@@ -17,7 +19,9 @@
     <strong>Machine Learning Review</strong>
   slides: "https://drive.google.com/file/d/1vII9eDy99mzXPaT_VGrcwCOBLSHxjm6M/view?usp=sharing"
   video: "https://drive.google.com/file/d/19POVCwRt_l1-HytTQ21iGb399mSg307V/view?usp=sharing"
-  homework: Course Project Team
+  homework: 
+    - Course Project Team
+    - DL 5.1-4, 5.7-9
   logistics:
 
 - date: 1/31
@@ -26,6 +30,8 @@
     <strong>Intro to Neural Networks and CNNs</strong>
   slides: "https://drive.google.com/file/d/1gk0gXYkpg7vk_xl1k8AkYgqBBaoeWCuR/view?usp=sharing"
   video: "https://drive.google.com/file/d/1TdPyfL-KsfFlfh7Iy45OhJMVRJUMkQx_/view?usp=sharing"
+  homework:
+    - DL 6.1-5, 9.1-7
   logistics: Course Project Team due
 
 - title: "Module 2: Deep Learning Applications"
