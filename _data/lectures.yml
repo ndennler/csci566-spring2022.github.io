@@ -3,7 +3,7 @@
 - date: 1/10
   lecturer: Xiang
   title: >
-    <strong>Course Intro / Entrance Exam</strong>
+    <strong>Course Intro + Entrance Exam</strong>
   slides: "https://drive.google.com/file/d/1O17Ekx65TFMS3XEjcbAXnW7hb6seZO5p/view?usp=sharing"
   video: "https://drive.google.com/file/d/1NfZUxrP0N0ep_ojVqgI2ofGtw0FJWMgg/view?usp=sharing"
   homework:
@@ -20,19 +20,31 @@
   slides: "https://drive.google.com/file/d/1vII9eDy99mzXPaT_VGrcwCOBLSHxjm6M/view?usp=sharing"
   video: "https://drive.google.com/file/d/19POVCwRt_l1-HytTQ21iGb399mSg307V/view?usp=sharing"
   homework: 
-    - Find Course Project Team
+    - Project Team (due 1/31)
     - DL 5.1-4, 5.7-9
   logistics:
 
 - date: 1/31
   lecturer: Xiang
   title: >
-    <strong>Intro to Neural Networks and CNNs</strong>
+    <strong>Intro to Neural Networks + CNNs</strong>
   slides: "https://drive.google.com/file/d/1gk0gXYkpg7vk_xl1k8AkYgqBBaoeWCuR/view?usp=sharing"
   video: "https://drive.google.com/file/d/1TdPyfL-KsfFlfh7Iy45OhJMVRJUMkQx_/view?usp=sharing"
   homework:
     - DL 6.1-5, 9.1-7
-  logistics: Course Project Team due
+  logistics: Project Team due
+
+- date: 2/7
+  lecturer: Xiang
+  title: >
+    <strong> CNNs + Neural Network Training + PyTorch/GCP/CARC Tutorials</strong>
+  slides: "https://drive.google.com/file/d/1uacLC9VRKnGxiiplsFqPHhg83zDQzZ54/view?usp=sharing"
+  video: "https://drive.google.com/file/d/1RUxusw3RXpKKFO1UcQuz1tUioY6HOTWD/view?usp=sharing"
+  homework:
+    - HW 1 out
+    - Project Proposal Slides (due 2/14)
+    - DL 7.1-13, 8.1-5
+  logistics:
 
 - title: "Module 2: Deep Learning Applications"
 
