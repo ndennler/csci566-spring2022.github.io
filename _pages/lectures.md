@@ -45,7 +45,7 @@ title: Schedule
             | video
             {% endif %}
             {% if lecture.tutorials %}
-              <a href="{{ lecture.tutorials }}" target="_blank">tutorials</a>
+            | <a href="{{ lecture.tutorials }}" target="_blank">tutorials</a>
             {% endif %}
         ]
     </td>
