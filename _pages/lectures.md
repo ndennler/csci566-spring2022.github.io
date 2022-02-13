@@ -44,6 +44,9 @@ title: Schedule
             {% else %}
             | video
             {% endif %}
+            {% if lecture.tutorials %}
+              <a href="{{ lecture.tutorials }}" target="_blank">tutorials</a>
+            {% endif %}
         ]
     </td>
     <td>
