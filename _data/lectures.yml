@@ -32,7 +32,8 @@
   video: "https://drive.google.com/file/d/1TdPyfL-KsfFlfh7Iy45OhJMVRJUMkQx_/view?usp=sharing"
   homework:
     - DL 6.1-5, 9.1-7
-  logistics: Project Team due
+  logistics: 
+    - Project Team due
 
 - date: 2/7
   lecturer: Xiang, Nathan, Bingjie
@@ -47,6 +48,19 @@
     - DL 7.1-13, 8.1-5
   logistics:
 
+- date: 2/14
+  lecturer: Xiang, Bingjie, Aaron
+  title: >
+    <strong> Recurrent Neural Networks + Entrance Exam Review</strong>
+  slides: "https://drive.google.com/file/d/1uL3V9oimDzKY94uDI5gCGslOXjtb1Wau/view?usp=sharing"
+  homework:
+    - DL 10.1-7, 10.9-11
+  logistics:
+    - Project Proposal Slides due
+
 - title: "Module 2: Deep Learning Applications"
+
+- date: 2/21
+  title: No Class (Presidents' Day)
 
 - title: "Module 3: Advanced Topics in Deep Learning"
